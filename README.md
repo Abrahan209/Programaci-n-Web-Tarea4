@@ -1,7 +1,7 @@
 # React-AgendApp
 
-Javier A. Pérez de la Cruz 2020-10620
+Erick Abrahan Betances Guerrero
 
-![card](https://github.com/AdrielMinyety/React-AgendApp/blob/master/React-AgendApp.png)
+![card](Agenda.png)
 
 # React-AgendApp
